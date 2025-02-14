@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: true
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 ---
 I’m a scientist with a passion for robots and human-machine interaction. I earned my diploma and PhD from the University of Hamburg, where I first got involved in research as a student assistant in a variety of labs, including neuroscience. My dissertation focused on gesture recognition using the reservoir computing paradigm, exploring how machines can better understand our movements.
 
