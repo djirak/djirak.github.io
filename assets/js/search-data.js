@@ -415,10 +415,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
+            },},{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
           title: 'ACRAI Research Day: I will give an invited talk about social human-robot interaction...',
           description: "",
           section: "News",},{id: "projects-project-1",
