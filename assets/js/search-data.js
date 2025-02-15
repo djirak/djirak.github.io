@@ -466,11 +466,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/Doreen Jirak", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Doreen-Jirak/", "_blank");
         },
       },{
         id: 'social-x',
