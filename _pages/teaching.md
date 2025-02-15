@@ -3,7 +3,6 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: WiSe 2019
-
     Lecturer (MSc): Knowledge Processing, Wed 10-12, room D-220. Lectures will be held in English. Topics covered:
         First-Order Logic, Symbolic Planning, STRIPS language
         Continuous Planning algorithms, Probabilistic Road Maps
