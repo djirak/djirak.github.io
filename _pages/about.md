@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Antwerp</a>. Department of Product Development.
+subtitle: <a href='https://www.uantwerpen.be/en/staff/doreen-jirak_26710/'>University of Antwerp</a>. Department of Product Development.
 
 profile:
   align: right
