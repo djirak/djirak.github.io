@@ -1,10 +1,10 @@
 {
-  "basics": {
+  "general": {
     "name": "Doreen Jirak",
     "position": "Senior Researcher",
     "image": "",
     "email": "doreen.jirak@uantwerpen.be",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://www.uantwerpen.be/en/staff/doreen-jirak_26710/",
     "location": {
       "address": "Paardenmarkt 94",
       "postalCode": "2000",
@@ -21,13 +21,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Istituto Italiano di Tecnologia",
+      "position": "Postoctoral Research Collaborator",
+      "url": "https://contact.iit.it/",
+      "startDate": "April 2022",
+      "endDate": "Machr 2024",
+      "projects": "VOJEXT, TERAIS "
     }
   ],
   "volunteer": [
