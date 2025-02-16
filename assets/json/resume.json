@@ -3,16 +3,13 @@
     "name": "Doreen Jirak",
     "position": "Senior Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "doreen.jirak@uantwerpen.be",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Paardenmarkt 94",
+      "postalCode": "2000",
+      "city": "Antwerp",
+      "countryCode": "BE"
     },
     "profiles": [
       {
