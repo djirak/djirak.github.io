@@ -1,5 +1,5 @@
 {
-  "general": 
+  "general": [
   {
     "name": "Doreen Jirak",
     "position": "Senior Researcher",
@@ -11,7 +11,8 @@
       "postalCode": "2000",
       "city": "Antwerp",
       "countryCode": "BE"
-    },
+    }
+  ],
    
   "work": [
     {
@@ -166,5 +167,5 @@
       ]
     }
   ]
-}
+
 
