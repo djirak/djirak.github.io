@@ -1,5 +1,5 @@
 {
-  "general": [
+  "general": 
   {
     "name": "Doreen Jirak",
     "position": "Senior Researcher",
@@ -12,7 +12,7 @@
       "city": "Antwerp",
       "countryCode": "BE"
     },
-   ]
+   
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
