@@ -1,5 +1,6 @@
 {
-  "general": {
+  "general": [
+  {
     "name": "Doreen Jirak",
     "position": "Senior Researcher",
     "image": "",
@@ -11,6 +12,8 @@
       "city": "Antwerp",
       "countryCode": "BE"
     },
+   ]
+  },  
     "profiles": [
       {
         "network": "Twitter",
@@ -172,3 +175,5 @@
       ]
     }
   ]
+}
+
