@@ -72,10 +72,10 @@
     - year: 2018
       items:
         - DAAD funded Visiting Researcher, Bordeaux, France
-        - Travel Grant UHH IJCNN Conference, Rio de Janeiro, Brazil, 2018
+        - Travel Grant UHH IJCNN Conference, Rio de Janeiro, Brazil
     - year: 2014
       items:
-        - Young academics funding from Körber Fond, Organization Special Session ICANN 2014
+        - Young academics funding from Körber Fond, Organization Special Session at ICANN Conference
     - year: 2013
       items:
         - Travel Grant UHH ICAR Conference, Montevideo, Uruguay
@@ -83,17 +83,16 @@
 - title: Research Community Activity
   type: nested_list
   contents:
-    - title: Reviewer (excerpt): HRI, IJCNN, IROS, ICANN, Neurocomputing, Neural Networks, Transactions on Neural Networks and Learning Systems, Transactions on Affective Computing
-    - title: Guest Editor: Frontiers Topic "Closing the Loop: From Human Behavior to Multisensory Robots"
-    - title: Guest Editor: Cognitive System Research
-    - title: Invited Speaker: LA-ROCO, Tutorial on Data Analysis and Machine Learning Models, 2020, Recife, Brazil
-    - title: Associate Editor: IEEE ICDL-EPIROB 2020, Valparaiso, Chile (online due to Covid19 pandemics)
-    - title: Invited Speaker: ISINA Symposium, 03/2020, TU Chemnitz, Germany (canceled due to Covid19 pandemics)
-    - title: Visiting Researcher: INRIA Bordeaux, Institut des Maladies Neurodegeneratives CNRS UMR , 2018, Bordeaux, France
+    - title: Reviewer (excerpt), HRI, IJCNN, IROS, ICANN, Neurocomputing, Neural Networks, Transactions on Neural Networks and Learning Systems, Transactions on Affective Computing
+    - title: Guest Editor Frontiers Topics, Cognitive System Research
+    - title: Invited Speaker LA-ROCO, Tutorial on Data Analysis and Machine Learning Models, 2020, Recife, Brazil
+    - title: Associate Editor IEEE ICDL-EPIROB 2020, Valparaiso, Chile (online due to Covid19 pandemics)
+    - title: Invited Speaker ISINA Symposium, 03/2020, TU Chemnitz, Germany (canceled due to Covid19 pandemics)
+    - title: Visiting Researcher INRIA Bordeaux, Institut des Maladies Neurodegeneratives CNRS UMR , 2018, Bordeaux, France
     - title: Organizer: Workshop on Crossmodal Learning for Intelligent Robotics, IEEE/RJS IROS 2018, Madrid, Spain
-    - title: Invited speaker: 1st International Workshop on on Affective and Assistive Robotics, 2018, Recife, Brazil
-    - title: Organizer: Workshop on Computational Models for Crossmodal Learning at IEEE ICDL-EPIROB 2017, Lisbon, Portugal
-    - title: Organizer/Speaker: Human-Machine Interaction Special Session, International Conference on Artificial Neural Networks, ICANN 2014, Hamburg, Germany
+    - title: Invited speaker 1st International Workshop on on Affective and Assistive Robotics, 2018, Recife, Brazil
+    - title: Organizer Workshop on Computational Models for Crossmodal Learning at IEEE ICDL-EPIROB 2017, Lisbon, Portugal
+    - title: Organizer/Speaker Human-Machine Interaction Special Session, International Conference on Artificial Neural Networks, ICANN 2014, Hamburg, Germany
 
 
 - title: Academic Interests
