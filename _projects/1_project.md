@@ -29,7 +29,7 @@ related_publications: true
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
-</div>
+</div>-->
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
@@ -65,4 +65,4 @@ Here's the code for the last row of images above:
 </div> 
 ```
 
-{% endraw %}-->
+{% endraw %}
