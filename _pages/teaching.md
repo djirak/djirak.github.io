@@ -10,19 +10,16 @@ nav_order: 6
 University of Antwerp, Department of Product Development, 
 Summer Term 2024
 
-    Teaching assistance and guest lecturer for "Interaction Design" and "User-Centered Design"
+    TA and guest lecturer (MSc): Interaction Design, User-Centered Design
 
 Istituto Italiano di Tecnologia (IIT), Winter Term 2021
 
-    Guest Lecturer (PhD): Experimental Design
+    Guest Lecturer (PhD): Experiment Design
 
 University of Hamburg, Department of Informatics,
 WiSe 2019
 
-    Lecturer (MSc): Knowledge Processing. Topics covered:
-        First-Order Logic, Symbolic Planning, STRIPS language
-        Continuous Planning algorithms, Probabilistic Road Maps
-        Hybrid Neural Networks
+    Lecturer (MSc): Knowledge Processing in Intelligent Systems
     Lecture (MSc): Neurally-Inspired Gesture Recognition
     Seminar (BSc): Machine Learning for Human-Robot Interaction
 
