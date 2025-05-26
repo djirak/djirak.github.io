@@ -396,7 +396,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
+    },{id: "news-co-habit-workshop-accepted-at-34th-ieee-ro-man-workshop",
+          title: 'CO-HABIT Workshop accepted at 34th IEEE RO-MAN workshop',
+          description: "",
+          section: "News",},{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
           title: 'ACRAI Research Day: I will give an invited talk about social human-robot interaction...',
           description: "",
           section: "News",},{id: "projects-project-1",
