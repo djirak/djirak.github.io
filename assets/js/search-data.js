@@ -396,11 +396,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-am-happy-to-announce-the-acceptance-of-the-co-habit-workshop-at-34th-ieee-ro-man-workshop",
-          title: 'I am happy to announce the acceptance of the CO-HABIT Workshop at 34th...',
-          description: "",
-          section: "News",},{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
+    },{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
           title: 'ACRAI Research Day: I will give an invited talk about social human-robot interaction...',
+          description: "",
+          section: "News",},{id: "news-i-am-happy-to-announce-the-acceptance-of-the-co-habit-workshop-at-34th-ieee-ro-man-workshop",
+          title: 'I am happy to announce the acceptance of the CO-HABIT Workshop at 34th...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
