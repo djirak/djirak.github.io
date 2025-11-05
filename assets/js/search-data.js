@@ -408,7 +408,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-our-paper-from-sea-to-system-exploring-user-centered-explainable-ai-for-maritime-decision-support-at-human-learning-and-decision-making-workshop-hldm-at-the-ecml-pkdd-conference-porto-portugal",
           title: 'I presented our paper “From Sea To System: Exploring User-Centered Explainable AI for...',
           description: "",
-          section: "News",},{id: "news-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-i-presented-our-ahoi-project-a-highly-interdisciplinary-project-where-we-explore-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers-arxiv-https-arxiv-org-abs-2509-15084",
+          section: "News",},{id: "news-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-i-presented-our-ahoi-project-a-highly-interdisciplinary-project-where-we-explore-how-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers-arxiv-https-arxiv-org-abs-2509-15084",
           title: 'Invited talk at the Istituto Italiano di Tecnologia (IIT) in the workshop “Embodied...',
           description: "",
           section: "News",},{id: "projects-project-1",
