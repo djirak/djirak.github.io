@@ -396,7 +396,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
+    },{id: "news-i-presented-our-paper-from-sea-to-system-exploring-user-centered-explainable-ai-for-maritime-decision-support-at-human-learning-and-decision-making-workshop-hldm-at-the-ecml-pkdd-conference-porto-portugal",
+          title: 'I presented our paper “From Sea To System: Exploring User-Centered Explainable AI for...',
+          description: "",
+          section: "News",},{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
           title: 'ACRAI Research Day: I will give an invited talk about social human-robot interaction...',
           description: "",
           section: "News",},{id: "news-i-am-happy-to-announce-the-acceptance-of-the-co-habit-workshop-at-34th-ieee-ro-man-workshop",
