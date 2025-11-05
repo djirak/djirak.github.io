@@ -80,17 +80,22 @@
       items:
         - Travel Grant UHH ICAR Conference, Montevideo, Uruguay
 
+- title: Invited Talks
+  type: nested_list
+  contents:
+    - title: Embodied Intelligence Workshop, Istituto Italiano di Tecnologia, Genoa, Italy      
+    - title: LA-ROCO, Tutorial on Data Analysis and Machine Learning Models, 2023, Recife, Brazil
+    - title: ISINA Symposium, TU Chemnitz, Germany, 2020 (canceled due to Covid19 pandemics)
+    - title: 1st International Workshop on on Affective and Assistive Robotics, 2018, Recife, Brazil
+
 - title: Research Community Activity
   type: nested_list
   contents:
     - title: Reviewer (excerpt), HRI, IJCNN, IROS, ICANN, Neurocomputing, Neural Networks, Transactions on Neural Networks and Learning Systems, Transactions on Affective Computing
     - title: Guest Editor Frontiers Topics, Cognitive System Research
-    - title: Invited Speaker LA-ROCO, Tutorial on Data Analysis and Machine Learning Models, 2020, Recife, Brazil
     - title: Associate Editor IEEE ICDL-EPIROB 2020, Valparaiso, Chile (online due to Covid19 pandemics)
-    - title: Invited Speaker ISINA Symposium, 03/2020, TU Chemnitz, Germany (canceled due to Covid19 pandemics)
     - title: Visiting Researcher INRIA Bordeaux, Institut des Maladies Neurodegeneratives CNRS UMR , 2018, Bordeaux, France
     - title: Organizer Workshop on Crossmodal Learning for Intelligent Robotics, IEEE/RJS IROS 2018, Madrid, Spain
-    - title: Invited speaker 1st International Workshop on on Affective and Assistive Robotics, 2018, Recife, Brazil
     - title: Organizer Workshop on Computational Models for Crossmodal Learning at IEEE ICDL-EPIROB 2017, Lisbon, Portugal
     - title: Organizer/Speaker Human-Machine Interaction Special Session, International Conference on Artificial Neural Networks, ICANN 2014, Hamburg, Germany
 
