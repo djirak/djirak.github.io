@@ -402,7 +402,7 @@ ninja.data = [{
           section: "News",},{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
           title: 'ACRAI Research Day: I will give an invited talk about social human-robot interaction...',
           description: "",
-          section: "News",},{id: "news-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-i-presented-our-ahoi-project-a-highly-interdisciplinary-project-where-we-explore-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers",
+          section: "News",},{id: "news-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-i-presented-our-ahoi-project-a-highly-interdisciplinary-project-where-we-explore-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers-arxiv-https-arxiv-org-abs-2509-15084",
           title: 'Invited talk at the Istituto Italiano di Tecnologia (IIT) in the workshop “Embodied...',
           description: "",
           section: "News",},{id: "news-i-am-happy-to-announce-the-acceptance-of-the-co-habit-workshop-at-34th-ieee-ro-man-workshop",
