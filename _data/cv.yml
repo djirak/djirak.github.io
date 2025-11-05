@@ -6,7 +6,7 @@
     - name: Place of Birth
       value: (East-)Berlin, (East-)Germany
     - name: Languages
-      value: German (native), English (full work proficiency), French (Limited Working Proficiency), Portuguese, Italian, Dutch (Elementary Proficiency)
+      value: German (native), English (Full Work Proficiency), French (Limited Working Proficiency), Portuguese, Italian, Dutch (Elementary Proficiency)
 
 - title: Education
   type: time_table
