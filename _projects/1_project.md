@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: tbd
+title: Human Activity Recognition (HAR)
+description: Implementation of 3D CNNs for human activity recognition at a workbench
 img: assets/img/12.jpg
 importance: 1
 category: work
