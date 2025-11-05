@@ -396,10 +396,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-presented-our-paper-from-sea-to-system-exploring-user-centered-explainable-ai-for-maritime-decision-support-at-human-learning-and-decision-making-workshop-hldm-at-the-ecml-pkdd-conference-porto-portugal",
-          title: 'I presented our paper “From Sea To System: Exploring User-Centered Explainable AI for...',
-          description: "",
-          section: "News",},{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
+    },{id: "news-acrai-research-day-i-will-give-an-invited-talk-about-social-human-robot-interaction",
           title: 'ACRAI Research Day: I will give an invited talk about social human-robot interaction...',
           description: "",
           section: "News",},{id: "news-i-am-happy-to-announce-the-acceptance-of-the-co-habit-workshop-at-34th-ieee-ro-man-workshop",
@@ -407,6 +404,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-co-habit-workshop-has-now-officially-launched-https-sites-google-com-view-cohabit-workshop2025-home",
           title: 'Our CO-HABIT Workshop has now officially launched: https://sites.google.com/view/cohabit-workshop2025/home',
+          description: "",
+          section: "News",},{id: "news-i-presented-our-paper-from-sea-to-system-exploring-user-centered-explainable-ai-for-maritime-decision-support-at-human-learning-and-decision-making-workshop-hldm-at-the-ecml-pkdd-conference-porto-portugal",
+          title: 'I presented our paper “From Sea To System: Exploring User-Centered Explainable AI for...',
           description: "",
           section: "News",},{id: "news-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-i-presented-our-ahoi-project-a-highly-interdisciplinary-project-where-we-explore-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers-arxiv-https-arxiv-org-abs-2509-15084",
           title: 'Invited talk at the Istituto Italiano di Tecnologia (IIT) in the workshop “Embodied...',
