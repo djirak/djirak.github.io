@@ -411,9 +411,9 @@ ninja.data = [{
           section: "News",},{id: "news-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-https-body-mind-workshop-lovable-app-i-presented-our-ahoi-project-where-we-explore-how-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers-arxiv-https-arxiv-org-abs-2509-15084",
           title: 'Invited talk at the Istituto Italiano di Tecnologia (IIT) in the workshop “Embodied...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "tbd",
+          section: "News",},{id: "projects-human-activity-recognition-har",
+          title: 'Human Activity Recognition (HAR)',
+          description: "Implementation of 3D CNNs for human activity recognition at a workbench",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
