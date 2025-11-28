@@ -408,7 +408,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-our-paper-from-sea-to-system-exploring-user-centered-explainable-ai-for-maritime-decision-support-at-human-learning-and-decision-making-workshop-hldm-at-the-ecml-pkdd-conference-porto-portugal",
           title: 'I presented our paper “From Sea To System: Exploring User-Centered Explainable AI for...',
           description: "",
-          section: "News",},{id: "news-i-gave-an-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-https-body-mind-workshop-lovable-app-i-presented-our-ahoi-project-where-we-explore-how-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers-related-paper-arxiv-https-arxiv-org-abs-2509-15084",
+          section: "News",},{id: "news-i-gave-an-invited-talk-at-the-istituto-italiano-di-tecnologia-iit-in-the-workshop-embodied-intelligence-https-body-mind-workshop-lovable-app-i-presented-our-ahoi-project-where-we-explore-how-the-integration-of-autonomous-navigation-agents-with-the-ability-of-explainable-ai-impact-human-factors-in-the-daily-routines-of-seafarers",
           title: 'I gave an invited talk at the Istituto Italiano di Tecnologia (IIT) in...',
           description: "",
           section: "News",},{id: "news-i-am-co-organizing-a-workshop-accepted-at-hri-2026-interai-interactive-ai-for-human-centered-robotics",
