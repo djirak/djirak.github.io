@@ -2,7 +2,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: /workshops/
 description: TBD
 nav: true
 nav_order: 3
@@ -10,7 +10,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<pages/projects.md 
+<pages/Workshops.md 
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
