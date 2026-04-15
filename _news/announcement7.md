@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 25.11.26
+date: 26.04.13
 inline: true
 related_posts: false
 ---
-I am co-organizing a workshop, accepted at HRI 2026: [InterAI]: (https://sites.google.com/view/interaiworkshophri2026/home)
+Paper accepted at Faces&Gestures 2026 https://fg2026.ieee-biometrics.org/
